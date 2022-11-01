@@ -11,7 +11,7 @@
 * 2 free PORT for TailwindCSS and Laravel
 
 ### Information
-* Read ansers.md for user story
+* Read answers.md for user story
 * credential of users (password) in answers.md 
 * Exported database in folder sql
 

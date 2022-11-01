@@ -1,5 +1,6 @@
 # Cashier / Waiter App
 [screen-capture.webm](https://user-images.githubusercontent.com/105652124/199292958-ef6f0bd0-1b4e-4547-a312-e72a890b2a75.webm)
+be patient because it takes long in some browser (video format .webm)
 
 ### READ ANSWERS.MD FIRST FOR USER STORY WALKTHROUGH AND SOLUTIONS
 

@@ -25,6 +25,7 @@ class ViewController extends Controller
                 $order_number = $order["order_number"];
                 $shown_orders[$order_number][$i] = $order;
                 $i++;
+                continue;
             }
             if($order_number !== "" && $order_number === $order["order_number"]){
                 $shown_orders[$order_number][$i] = $order;

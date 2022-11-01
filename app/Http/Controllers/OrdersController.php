@@ -109,7 +109,7 @@ class OrdersController extends Controller
             if(!$part){ return redirect('/invalid-input');}
 
             //grouping array
-            $requestArray[$requests][str_replace($requests,"",$key)] = $part;
+            $requestArray[$requests][preg_replace('/[0-9]+/', '', $key)] = $part;
 
             $i++;
             if($i > 4){
